@@ -69,7 +69,7 @@ where `α > 0` is the first shape parameter and `β > 0` is the second shape par
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-stdev@v0.1.1-esm/index.mjs';
 ```
 
 #### stdev( alpha, beta )
@@ -145,7 +145,7 @@ v = stdev( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-stdev@v0.1.1-esm/index.mjs';
 
 var alpha;
 var beta;
