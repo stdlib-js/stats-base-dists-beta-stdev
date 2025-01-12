@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,11 +34,12 @@ This release closes the following issue:
 
 <details>
 
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`0756fb5`](https://github.com/stdlib-js/stdlib/commit/0756fb583ae0061031335704fdc46805f408f9c9) - **style:** remove empty lines _(by Philipp Burckhardt)_
 -   [`cfc0665`](https://github.com/stdlib-js/stdlib/commit/cfc0665435a1f99158d7fed39b8873dea6aa6209) - **docs:** add missing private tag _(by Philipp Burckhardt)_
 -   [`e450426`](https://github.com/stdlib-js/stdlib/commit/e450426813957ec4de5e31434edb969741db7c94) - **bench:** add missing native suffix _(by Philipp Burckhardt)_
--   [`12a3dbf`](https://github.com/stdlib-js/stdlib/commit/12a3dbf094bb89c50ea468b9c75789124940b510) - **feat:** add C implementation for `@stdlib/stats-base/dists/beta/stdev` [(#3909)](https://github.com/stdlib-js/stdlib/pull/3909) _(by Vivek maurya, Vivek Maurya)_
+-   [`12a3dbf`](https://github.com/stdlib-js/stdlib/commit/12a3dbf094bb89c50ea468b9c75789124940b510) - **feat:** add C implementation for `@stdlib/stats-base/dists/beta/stdev` [(#3909)](https://github.com/stdlib-js/stdlib/pull/3909) _(by Vivek Maurya, Vivek Maurya)_
 
 </details>
 
@@ -50,11 +51,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
 -   Vivek Maurya
--   Vivek maurya
 
 </section>
 
